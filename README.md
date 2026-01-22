@@ -2,8 +2,7 @@
 
 ## Overview
 
-**Sehat-Fahm** (سہت فہم) is an intelligent multi-agent system designed to automate medical lab report analysis and provide accessible health insights. The system leverages advanced AI technologies including LangGraph multi-agent orchestration, RAG (Retrieval-Augmented Generation) pipelines, and natural language processing to make medical information understandable for non-medical users, with special emphasis on Urdu language accessibility.
-
+**Sehat-Fahm** (سہت فہم) is Multi-agent medical analysis system with Urdu voice accessibility for rural healthcare.
 ## Key Features
 
 ### 🤖 Multi-Agent Architecture
