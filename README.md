@@ -38,6 +38,3 @@ In Pakistan, particularly in rural areas, patients face a "last-mile" challenge 
 - **Real-Time Processing**: Live analysis with progress indicators
 - **Audio Playback**: Integrated audio player for Urdu voice output
 
-## Architecture
-
-### System Components
